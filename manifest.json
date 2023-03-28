@@ -1,0 +1,17 @@
+{
+    "name": "Przewodnik po Pomorzu",
+    "short_name": "Pomorzanin",
+    "theme_color": "#2196f3",
+    "background_color": "#2196f3",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/",
+    "icons": [
+        {
+            "src": "icon.png",
+            "size": "64x64",
+            "type": "image/png"
+        }
+    ]
+}
