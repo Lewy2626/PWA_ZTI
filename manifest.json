@@ -6,7 +6,7 @@
     "display": "standalone",
     "orientation": "portrait",
     "scope": "/",
-    "start_url": "lewy2626.github.io/PWA_ZTI/index.html",
+    "start_url": "/PWA_ZTI/index.html/",
     "icons": [
         {
             "src": "icon.png",
